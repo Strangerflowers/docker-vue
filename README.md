@@ -19,6 +19,9 @@ yarn build
 ```
 yarn lint
 ```
-
+ 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+docker来自：
+https://www.jianshu.com/p/3771b155283b
